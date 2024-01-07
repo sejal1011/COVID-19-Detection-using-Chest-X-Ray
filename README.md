@@ -1,4 +1,4 @@
-# Chest X-Ray Classification Project :hospital:
+# Covid-19 Detection Using Chest X-Ray Project :hospital:
 
 ## :dart: Objective
 The primary goal of this project was to develop an effective deep learning model capable of classifying radiography images, specifically focusing on detecting COVID-19 cases.
